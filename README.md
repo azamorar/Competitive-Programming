@@ -1,6 +1,6 @@
-## Getting Started
+Short algorithms for a competitive programming contest
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+The problems can be found in https://aceptaelreto.com/problems/volumes.php
 
 ## Folder Structure
 
